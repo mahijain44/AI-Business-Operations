@@ -1,0 +1,10 @@
+fastapi==0.115.11
+starlette>=0.40,<0.47
+uvicorn[standard]
+python-multipart
+
+google-genai
+python-dotenv
+
+mysql-connector-python
+pydantic

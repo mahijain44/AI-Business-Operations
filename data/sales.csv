@@ -1,0 +1,11 @@
+order_id,customer,product,quantity,price,status,order_date
+1001,ABC Corp,Laptop,5,60000,Delivered,2026-09-01
+1002,XYZ Ltd,Monitor,10,15000,Pending,2026-09-02
+1003,PQR Pvt Ltd,Laptop,2,60000,Delayed,2026-09-03
+1004,ABC Corp,Keyboard,20,2000,Delivered,2026-09-04
+1005,XYZ Ltd,Laptop,1,60000,Pending,2026-09-05
+1006,LMN Ltd,Mouse,15,1000,Delivered,2026-09-05
+1007,PQR Pvt Ltd,Monitor,5,15000,Delayed,2026-09-06
+1008,ABC Corp,Laptop,3,60000,Delivered,2026-09-06
+1009,XYZ Ltd,Keyboard,10,2000,Pending,2026-09-07
+1010,LMN Ltd,Laptop,2,60000,Delivered,2026-09-07
